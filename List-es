@@ -1,24 +1,87 @@
 [
       {
-         "id":25,
-         "name":"Cancion25",
-         "url":"http://stream.zeno.fm/9apd805pp8quv.aac",
-         "cover":"https://cldup.com/ZpaII-2RW8.png",
+         "id":1,
+         "name":"1.HE DECIDIDO SEGUIR A CRISTO",
+         "url":"https://cldup.com/eooipY-ac9.mp3",
+         "cover":"https://pbs.twimg.com/media/DW-8IcMWAAAnSDf.jpg",
          "language":"es",
          "description": "",
-         "recommendedBy": "",
+         "recommendedBy": "Dot7",
+         "author": "",
+         "letter": "<p style=\"text-align: left;\">He decidi&oacute; Seguir a Cristo<br>He decidi&oacute; Seguir a Cristo<br>He decidi&oacute; Seguir a Cristo<br>No vuelvo atr&aacute;s, no vuelvo atr&aacute;s</p> <p style=\"text-align: left;\"><br>Si otros vuelven yo sigo a Cristo<br>Si otros vuelven yo sigo a Cristo<br>Si otros vuelven yo sigo a Cristo<br>No vuelvo atr&aacute;s, no vuelvo atr&aacute;s</p> <p style=\"text-align: left;\"><br>La Cruz delante y el mundo atr&aacute;s<br>La Cruz delante y el mundo atr&aacute;s<br>La Cruz delante y el mundo atr&aacute;s<br>No vuelvo atr&aacute;s, no vuelvo atr&aacute;s</p> <p style=\"text-align: left;\"><br>El Rey de Gloria me a transformado<br>El Rey de Gloria me a transformado<br>El Rey de Gloria me a transformado<br>No vuelvo atr&aacute;s, no vuelvo atr&aacute;s.<br><br><br></p>"
+      },
+      {
+         
+         "id":2,
+         "name":"2.UNIDOS EN VERDAD",
+         "url":"https://cldup.com/gumlHXzKUA.mp3",
+         "cover":"https://i.ytimg.com/vi/DfIaVyrykIE/maxresdefault.jpg",
+         "language":"es",
+         "description": "",
+         "recommendedBy": "Dot7",
+         "author": "",
+         "letter": "<p>Por nuestro Se&ntilde;or, unidos en verdad,<br>Lo adoramos con fervor.<br>Gozo da vivir unidos por la fe;<br>Siempre Jes&uacute;s nos guiar&aacute;.</p> <p><br><br><br><strong>CORO</strong></p> <p><br><br>Vamos al cielo, Jes&uacute;s nos espera;<br>Hay un lugar para ti.<br>Contigo, yo quiero cantar en el cielo;<br>Vamos, mi hermano, al hogar.<br><br></p> <p><br>Al gran capit&aacute;n habremos de seguir;<br>La gran victoria cerca est&aacute;.<br>Sin vacilaci&oacute;n al cielo vamos, s&iacute;;<br>Que nadie falte all&aacute;.</p>"
+      },
+      
+      {
+         
+         "id":,
+         "name":"",
+         "url":"",
+         "cover":"",
+         "language":"es",
+         "description": "",
+         "recommendedBy": "Dot7",
+         "author": "",
+         "letter": ""
+      },
+      
+      {
+         
+         "id":,
+         "name":"",
+         "url":"",
+         "cover":"",
+         "language":"es",
+         "description": "",
+         "recommendedBy": "Dot7",
+         "author": "",
+         "letter": ""
+      },
+      
+      {
+         
+         "id":,
+         "name":"",
+         "url":"",
+         "cover":"",
+         "language":"es",
+         "description": "",
+         "recommendedBy": "Dot7",
          "author": "",
          "letter": ""
       },
       {
          
-         "id":26,
-         "name":"Cancion26",
-         "url":"http://stream.zeno.fm/9apd805pp8quv.aac",
-         "cover":"https://cldup.com/ZpaII-2RW8.png",
+         "id":,
+         "name":"",
+         "url":"",
+         "cover":"",
          "language":"es",
          "description": "",
-         "recommendedBy": "",
+         "recommendedBy": "Dot7",
+         "author": "",
+         "letter": ""
+      },
+      {
+         
+         "id":,
+         "name":"",
+         "url":"",
+         "cover":"",
+         "language":"es",
+         "description": "",
+         "recommendedBy": "Dot7",
          "author": "",
          "letter": ""
       }
