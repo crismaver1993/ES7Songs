@@ -2,7 +2,7 @@
       {
          "id":1,
          "name":"1.HE DECIDIDO SEGUIR A CRISTO",
-         "url":"https://cldup.com/eooipY-ac9.mp3",
+         "url":"https://cldup.com/lXTID3nhHt.mp3",
          "cover":"https://pbs.twimg.com/media/DW-8IcMWAAAnSDf.jpg",
          "language":"es",
          "description": "",
@@ -14,7 +14,7 @@
          
          "id":2,
          "name":"2.UNIDOS EN VERDAD",
-         "url":"https://cldup.com/gumlHXzKUA.mp3",
+         "url":"https://cldup.com/MJ7ek6e3YE.mp3",
          "cover":"https://i.ytimg.com/vi/DfIaVyrykIE/maxresdefault.jpg",
          "language":"es",
          "description": "",
@@ -27,7 +27,7 @@
          
          "id":3,
          "name":"3.TOMADO DE LA MANO",
-         "url":"https://cldup.com/5SBhbDrPQU.mp3",
+         "url":"https://cldup.com/hpg-0FtLNC.mp3",
          "cover":"http://4.bp.blogspot.com/-602tLnuSq14/T_9XFKU-SLI/AAAAAAAAIVs/pxQRBqwXet8/s1600/mano-de-dios.jpg",
          "language":"es",
          "description": "",
@@ -39,8 +39,8 @@
       {
          
          "id":4,
-         "name":"",
-         "url":"",
+         "name":"4.RAZONES",
+         "url":"https://cldup.com/NeZTsQbVFw.mp3",
          "cover":"",
          "language":"es",
          "description": "",
@@ -53,7 +53,7 @@
          
          "id":5,
          "name":"",
-         "url":"",
+         "url":"https://cldup.com/yb5SGmuDA8.mp3",
          "cover":"",
          "language":"es",
          "description": "",
@@ -65,7 +65,7 @@
          
          "id":6,
          "name":"",
-         "url":"",
+         "url":"https://cldup.com/Gk9T_73NiF.mp3",
          "cover":"",
          "language":"es",
          "description": "",
@@ -77,7 +77,213 @@
          
          "id":7,
          "name":"",
-         "url":"",
+         "url":"https://cldup.com/RvShvR_aLK.mp3",
+         "cover":"",
+         "language":"es",
+         "description": "",
+         "recommendedBy": "Dot7",
+         "author": "",
+         "letter": ""
+      },
+      
+       {
+         
+         "id":8,
+         "name":"",
+         "url":"https://cldup.com/pYjK8WFA0G.mp3",
+         "cover":"",
+         "language":"es",
+         "description": "",
+         "recommendedBy": "Dot7",
+         "author": "",
+         "letter": ""
+      },
+      
+       {
+         
+         "id":9,
+         "name":"",
+         "url":"https://cldup.com/2yRh18wyFI.mp3",
+         "cover":"",
+         "language":"es",
+         "description": "",
+         "recommendedBy": "Dot7",
+         "author": "",
+         "letter": ""
+      },
+       {
+         
+         "id":10,
+         "name":"",
+         "url":"https://cldup.com/3sjsnjAEXo.mp3",
+         "cover":"",
+         "language":"es",
+         "description": "",
+         "recommendedBy": "Dot7",
+         "author": "",
+         "letter": ""
+      },
+       {
+         
+         "id":11,
+         "name":"",
+         "url":"https://cldup.com/3URxGU7wso.mp3",
+         "cover":"",
+         "language":"es",
+         "description": "",
+         "recommendedBy": "Dot7",
+         "author": "",
+         "letter": ""
+      },
+       {
+         
+         "id":12,
+         "name":"",
+         "url":"https://cldup.com/3OQY597bmy.mp3",
+         "cover":"",
+         "language":"es",
+         "description": "",
+         "recommendedBy": "Dot7",
+         "author": "",
+         "letter": ""
+      },
+       {
+         
+         "id":13,
+         "name":"",
+         "url":"https://cldup.com/l3G2Tf3Rpe.mp3",
+         "cover":"",
+         "language":"es",
+         "description": "",
+         "recommendedBy": "Dot7",
+         "author": "",
+         "letter": ""
+      },
+       {
+         
+         "id":14,
+         "name":"",
+         "url":"https://cldup.com/ZEG62TBm0z.mp3",
+         "cover":"",
+         "language":"es",
+         "description": "",
+         "recommendedBy": "Dot7",
+         "author": "",
+         "letter": ""
+      },
+       {
+         
+         "id":15,
+         "name":"",
+         "url":"https://cldup.com/GUwB0c3NtF.mp3",
+         "cover":"",
+         "language":"es",
+         "description": "",
+         "recommendedBy": "Dot7",
+         "author": "",
+         "letter": ""
+      },
+       {
+         
+         "id":16,
+         "name":"",
+         "url":"https://cldup.com/9mtMQQJj4F.mp3",
+         "cover":"",
+         "language":"es",
+         "description": "",
+         "recommendedBy": "Dot7",
+         "author": "",
+         "letter": ""
+      },
+       {
+         
+         "id":17,
+         "name":"",
+         "url":"https://cldup.com/QERRZz7_Mz.mp3",
+         "cover":"",
+         "language":"es",
+         "description": "",
+         "recommendedBy": "Dot7",
+         "author": "",
+         "letter": ""
+      },
+       {
+         
+         "id":18,
+         "name":"",
+         "url":"https://cldup.com/E3csaeo6zU.mp3",
+         "cover":"",
+         "language":"es",
+         "description": "",
+         "recommendedBy": "Dot7",
+         "author": "",
+         "letter": ""
+      },
+       {
+         
+         "id":19,
+         "name":"",
+         "url":"https://cldup.com/qJDWp8MUPq.mp3",
+         "cover":"",
+         "language":"es",
+         "description": "",
+         "recommendedBy": "Dot7",
+         "author": "",
+         "letter": ""
+      },
+       {
+         
+         "id":20,
+         "name":"",
+         "url":"https://cldup.com/trxXm68iBa.mp3",
+         "cover":"",
+         "language":"es",
+         "description": "",
+         "recommendedBy": "Dot7",
+         "author": "",
+         "letter": ""
+      },
+       {
+         
+         "id":21,
+         "name":"",
+         "url":"https://cldup.com/usMX9PHZin.mp3",
+         "cover":"",
+         "language":"es",
+         "description": "",
+         "recommendedBy": "Dot7",
+         "author": "",
+         "letter": ""
+      },
+      {
+         
+         "id":22,
+         "name":"",
+         "url":"https://cldup.com/7BCQCTdZAz.mp3",
+         "cover":"",
+         "language":"es",
+         "description": "",
+         "recommendedBy": "Dot7",
+         "author": "",
+         "letter": ""
+      },
+      {
+         
+         "id":23,
+         "name":"",
+         "url":"https://cldup.com/Aed73Ew9fL.mp3",
+         "cover":"",
+         "language":"es",
+         "description": "",
+         "recommendedBy": "Dot7",
+         "author": "",
+         "letter": ""
+      },
+      {
+         
+         "id":24,
+         "name":"",
+         "url":"https://cldup.com/O9sge8Tp_i.mp3",
          "cover":"",
          "language":"es",
          "description": "",
